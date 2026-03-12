@@ -1,7 +1,5 @@
 /****************************************
  * Lab1_2 (Control): Basic Java Constructs
- * Author: Livia Ferreira Guimaraes Neves
- * Date: 23rd September 2025
  ****************************************/
 package ie.tudublin.cmpu2016.lab1;
 
@@ -26,5 +24,6 @@ public class Lab1_2 {
 		double c = 7.0;
 		System.out.println(c / b);
 	}
+
 
 }
