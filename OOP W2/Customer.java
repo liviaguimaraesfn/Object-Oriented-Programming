@@ -1,11 +1,6 @@
 /*
  * Customer.java
- * TU858/2 Object-Oriented Programming Lab
- *
  * This class represents a Customer object with three attributes:
- *
- * Author: Livia Guimaraes
- * Date: 30/09/2025
  */
 
 package w2;
@@ -51,4 +46,5 @@ public class Customer {
     	// Converts all of the characters in this String to upper case using the rules of the default locale.
     	return city.toUpperCase();
     }
+
 }
