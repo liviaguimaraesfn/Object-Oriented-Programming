@@ -1,15 +1,10 @@
 /*
  * Control.java
- * TU856/2 TU858/2 Object-Oriented Programming Lab
- *
  * This is the main program used to test the Book class.
  * It demonstrates:
  *  - Creating Book objects using different constructors
  *  - Printing object details using toString()
  *  - Using the titleLength() method (which calls the String length() method)
- *
- * Author: Colette Kirwan
- * Date: 28/09/2025
  */
 
 package w2;
@@ -51,4 +46,5 @@ public class Control {
         // Use the toUpperCase() method to print the city names in upper case       
         System.out.println("Customers from the following cities: " + c1.toUpperCase() + ", " + c2.toUpperCase() + ", " + c3.toUpperCase() + ", " + c4.toUpperCase() + ", " + c5.toUpperCase());
     }
+
 }
