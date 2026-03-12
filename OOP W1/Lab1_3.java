@@ -1,7 +1,5 @@
 /****************************************
  * Lab1_3 (Control): Basic Java Constructs - Conditionals, Loops, and Arrays
- * Author: Livia Ferreira Guimaraes Neves
- * Date: 23rd September 2025
  ****************************************/
 package ie.tudublin.cmpu2016.lab1;
 
@@ -51,4 +49,5 @@ public class Lab1_3 {
 			System.out.println(s);
 		}
 	}
+
 }
