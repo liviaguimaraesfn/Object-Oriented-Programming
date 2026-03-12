@@ -1,7 +1,5 @@
 /*
  * Book.java
- * TU856/2 TU858/2 Object-Oriented Programming Lab
- *
  * This class represents a Book object with three attributes:
  * ISBN number, title, and author.
  * 
@@ -9,9 +7,6 @@
  *  - Constructors to create new Book objects
  *  - A toString() method to display details of a book in a readable way
  *  - A titleLength() method that uses the String length() method
- *
- * Author: Colette Kirwan
- * Date: 28/09/2025
  */
 
 package w2;
@@ -53,4 +48,5 @@ public class Book {
     public int titleLength() {
         return m_title.length();
     }
+
 }
