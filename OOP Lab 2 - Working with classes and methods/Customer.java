@@ -1,6 +1,6 @@
 /*
  * Customer.java
- * This class represents a Customer object with three attributes:
+ * This class represents a Customer object with three attributes.
  */
 
 package w2;
